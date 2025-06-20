@@ -1,2 +1,2 @@
 its a Chrome browser extension
-change URLS //use glitch or other webhooksin Json code
+change URLS //use glitch or other webhooksin Js code //fetch https://......
